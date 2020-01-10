@@ -1,0 +1,60 @@
+.container {
+  margin: 0 auto;
+}
+.row {
+  justify-content: space-between;
+}
+.head {
+  text-align: center;
+  color: #fd8569;
+}
+.head span {
+  color: #000;
+}
+.underhead {
+  text-align: center;
+}
+section {
+  color: #ffffff;
+  position: relative;
+  padding: 54px 50px 66px;
+}
+.first {
+  background-color: #4eb2f7;
+}
+.second {
+  background-color: #c049f8;
+}
+.third {
+  background-color: #817eff;
+}
+.fourth {
+  background-color: #f74770;
+}
+.section__btn {
+  padding: 20px 60px 20px 50px;
+  border-radius: 30px;
+  border: none;
+  background-color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  bottom: -13%;
+  left: 7%;
+}
+.headtwo {
+  font-size: 20px;
+  margin-top: 50%;
+}
+.section__p {
+  font-size: 15px;
+}
+.headtwo,
+.section__p {
+  text-align: center;
+}
+button i {
+  margin-right: 17px;
+}
+.fa-camera-retro {
+  transform: rotate(-30deg);
+}
